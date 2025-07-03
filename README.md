@@ -40,10 +40,10 @@ https://github.com/nhn/nhncloud.iap.ios.sdk
 5. Change Embed value is Do Not Embed the framework.
 6. Add the `StoreKit.framework` to your target's "Frameworks, Libraries, and Embedded Content" section.
 
-* Add Capabilities
-    * In your Xcode project, navigate to the "Signing & Capabilities" tab.
-    * Click on the "+" button to add a new capability.
-    * Select "In-App Purchase" from the list of capabilities.
+### Add Capabilities
+1. In your Xcode project, navigate to the "Signing & Capabilities" tab.
+2. Click on the "+" button to add a new capability.
+3. Select "In-App Purchase" from the list of capabilities.
 
 ## Getting Started
 
